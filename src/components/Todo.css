@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #89c8ec; ;
+}
+
+.main-div {
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+    text-align: center;
+}
+figcaption {
+    margin: 10px 20px;
+    color: white;
+    font-size: larger;
+}
+input[type="text"] {
+    width: 42%;
+    border: none;
+    height: 35px;
+    border-radius: 5px;
+    padding: 3px 8px;
+    font-size: 20px;
+}
+input:focus {
+    outline: none;
+}
+i {
+    margin-left: -30px;
+  }
+.each_item {
+    background-color: blue;
+    width: 41%;
+    border-radius: 5px;
+    color: white;
+    margin: auto;
+    margin-bottom: 10px;
+    
+    padding: 10px;
+}
+.left_list {
+    float: left;
+    width: 85%;
+    text-align: left;
+    padding-left: 10px;
+}
+.show_items {
+    margin: 10px;
+}
